@@ -1,8 +1,11 @@
+// source.cpp
 #include <iostream>
 using namespace std;
- int name = 0101
+// var decleration
+int number = 101;
+
 int main()
-{ cout << name << endl;
+{ cout << number << endl;
     return 0;
 
 }
