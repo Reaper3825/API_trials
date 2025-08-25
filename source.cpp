@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
-
+ int name = 0101
 int main()
-{ cout << "Hello" << endl;
+{ cout << name << endl;
     return 0;
 
 }
