@@ -11,7 +11,7 @@ SPECIAL FX: Greet the user
 using namespace std;
 
 int main()
-{ cout < "Hello" << endl;
+{ cout << "Hello" << endl;
     return 0;
 // output
 return 0; // no errors
